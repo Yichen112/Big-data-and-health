@@ -1,0 +1,102 @@
+Departement,Departement_label,Region_google,Code_region_google
+1,Ain,Rhone-Alpes,V
+2,Aisne,Picardie,S
+3,Allier,Auvergne,C
+4,Alpes-de-Haute-Provence,Provence-Alpes-Cote d'Azur,U
+5,Hautes-Alpes,Provence-Alpes-Cote d'Azur,U
+6,Alpes-Maritimes,Provence-Alpes-Cote d'Azur,U
+7,Ardeche,Rhone-Alpes,V
+8,Ardennes,Champagne-Ardenne,G
+9,Ariege,Midi-Pyrenees,N
+10,Aube,Champagne-Ardenne,G
+11,Aude,Languedoc-Roussillon,K
+12,Aveyron,Midi-Pyrenees,N
+13,Bouches-du-Rhone,Provence-Alpes-Cote d'Azur,U
+14,Calvados,Basse-Normandie,P
+15,Cantal,Auvergne,C
+16,Charente,Poitou-Charentes,T
+17,Charente-Maritime,Poitou-Charentes,T
+18,Cher,Centre,F
+19,Correze,Limousin,L
+2A,Corse-du-Sud,Corse,H
+2B,Haute-Corse,Corse,H
+21,Cote-d'Or,Bourgogne,D
+22,Cotes d'Armor,Bretagne,E
+23,Creuse,Limousin,L
+24,Dordogne,Aquitaine,B
+25,Doubs,Franche-Comte,I
+26,Drome,Rhone-Alpes,V
+27,Eure,Haute-Normandie,Q
+28,Eure-et-Loir,Centre,F
+29,Finistere,Bretagne,E
+30,Gard,Languedoc-Roussillon,K
+31,Haute-Garonne,Midi-Pyrenees,N
+32,Gers,Midi-Pyrenees,N
+33,Gironde,Aquitaine,B
+34,Herault,Languedoc-Roussillon,K
+35,Ille-et-Vilaine,Midi-Pyrenees,N
+36,Indre,Centre,F
+37,Indre-et-Loire,Centre,F
+38,Isere,Rhone-Alpes,V
+39,Jura,Franche-Comte,I
+40,Landes,Aquitaine,B
+41,Loir-et-Cher,Centre,F
+42,Loire,Rhone-Alpes,V
+43,Haute-Loire,Auvergne,C
+44,Loire-Atlantique,Pays de la Loire,R
+45,Loiret,Centre,F
+46,Lot,Midi-Pyrenees,N
+47,Lot-et-Garonne,Aquitaine,B
+48,Lozere,Languedoc-Roussillon,K
+49,Maine-et-Loire,Pays de la Loire,R
+50,Manche,Basse-Normandie,P
+51,Marne,Champagne-Ardenne,G
+52,Haute-Marne,Champagne-Ardenne,G
+53,Mayenne,Pays de la Loire,R
+54,Meurthe-et-Moselle,Lorraine,M
+55,Meuse,Lorraine,M
+56,Morbihan,Bretagne,E
+57,Moselle,Lorraine,M
+58,Nievre,Bourgogne,D
+59,Nord,Nord-Pas de Calais,O
+60,Oise,Picardie,S
+61,Orne,Basse-Normandie,P
+62,Pas-de-Calais,Nord-Pas de Calais,O
+63,Puy-de-Dome,Auvergne,C
+64,Pyrenees-Atlantiques,Aquitaine,B
+65,Hautes-Pyrenees,Midi-Pyrenees,N
+66,Pyrenees-Orientales,Languedoc-Roussillon,K
+67,Bas-Rhin,Alsace,A
+68,Haut-Rhin,Alsace,A
+69,Rhone,Rhone-Alpes,V
+70,Haute-Saone,Franche-Comte,I
+71,Saone-et-Loire,Bourgogne,D
+72,Sarthe,Pays de la Loire,R
+73,Savoie,Rhone-Alpes,V
+74,Haute-Savoie,Rhone-Alpes,V
+75,Paris,Ile-de-France,J
+76,Seine-Maritime,Haute-Normandie,Q
+77,Seine-et-Marne,Ile-de-France,J
+78,Yvelines,Ile-de-France,J
+79,Deux-Sevres,Poitou-Charentes,T
+80,Somme,Picardie,S
+81,Tarn,Midi-Pyrenees,N
+82,Tarn-et-Garonne,Midi-Pyrenees,N
+83,Var,Provence-Alpes-Cote d'Azur,U
+84,Vaucluse,Provence-Alpes-Cote d'Azur,U
+85,Vendee,Pays de la Loire,R
+86,Vienne,Poitou-Charentes,T
+87,Haute-Vienne,Limousin,L
+88,Vosges,Lorraine,M
+89,Yonne,Bourgogne,D
+90,Territoire-de-Belfort,Franche-Comte,I
+91,Essonne,Ile-de-France,J
+92,Hauts-de-Seine,Ile-de-France,J
+93,Seine-Saint-Denis,Ile-de-France,J
+94,Val-de-Marne,Ile-de-France,J
+95,Val-D'Oise,Ile-de-France,J
+971,Guadeloupe,,No data retrieved in Google Trends. 
+972,Martinique,,No data retrieved in Google Trends. 
+973,Guyane,,No data retrieved in Google Trends. 
+974,La Reunion,,No data retrieved in Google Trends. 
+976,Mayotte,,No data retrieved in Google Trends. 
